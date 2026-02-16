@@ -1,0 +1,9 @@
+// File: AdmissionSystem/Main.java
+
+import GUI.LoginFrame;
+
+public class Main {
+    public static void main(String[] args) {
+        new LoginFrame();  // Launch login window
+    }
+}
